@@ -9,15 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-sub
+this test is for the operation of sub. hope it will work!
+very simple and basic.
 
 ## How to test
 
-Explain how to use your project
-test sub
+use the default 12121212121212121
+2313131231231312321
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-no other
+no
+no
+no
